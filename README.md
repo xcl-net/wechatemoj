@@ -1,7 +1,7 @@
 # wechatemoj
 微信emoj表情对应的汉字表示代码
 
-![](https://github.com/xcl-net/wechatemoj/blob/master/image-20200519163917208.png)
+![](image-20200519163917208.png)
 
 
 
